@@ -32,7 +32,8 @@
         "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
         "bignum": "0.13.1",
         "base58-native": "*",
-        "async": "*"
+        "async": "*",
+        "sha3": "*"
     },
     "engines": {
         "node": ">=0.10"
